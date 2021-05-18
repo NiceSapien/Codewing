@@ -7,4 +7,3 @@ Welcome to Codewing! Explore 500+ Java, HTML, **JavaScript** and CSS codes for F
 # Usage
 #### 1. Send a HTTPS GET request to https://codewing.js.org/Api/Units/1.json
 #### 2. You will receive a response in json format and you can display them in a list.
-# This branch is useless, go in main.
