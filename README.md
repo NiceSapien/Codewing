@@ -5,5 +5,5 @@ Welcome to Codewing! Explore 500+ Java, HTML, **JavaScript** and CSS codes for F
 
 [Join us on Discord](https://discord.gg/dCVHetn8Y3)
 # Usage
-#### 1. Send a HTTPS GET request to https://codewing.js.org/Api/Units/1.json
+#### 1. Send a HTTPS `GET` request to https://codewing.js.org/Api/Units/1.json
 #### 2. You will receive a response in json format and you can display them in a list.
