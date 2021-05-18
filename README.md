@@ -1,5 +1,9 @@
 # AmazeCode
-Welcome to Codewing! Explore 500+ Java codes for free!
-**Coming Soon**:*Web App made with js, Html and css*
+Welcome to Codewing! Explore 500+ Java, HTML, **JavaScript** and CSS codes for FREE and use without any copyright worries!
+
+**Coming Soon**:*Web App made with **JavaScript**, Html and css*
+
 [Join us on Discord](https://discord.gg/dCVHetn8Y3)
-### App's code isn't available here, but website's is available.
+# Usage
+#### 1. Send a HTTPS GET request to https://codewing.js.org/api/json
+#### 2. You will receive a response in json format and you can display them in a list.
