@@ -2,13 +2,12 @@ data:text/html,
 <!DOCTYPE html>
 <html>
   <head>
-<link href='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/stackowerflow-dark.min.css' rel='stylesheet'/>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/highlightjs-line-numbers.js/2.8.0/highlightjs-line-numbers.min.js'>
-<script src='//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.7.2/build/highlight.min.js'/>      <script> 
-hljs.initHighlightingOnLoad();      </script>
+<link href='https://cdn.jsdelivr.net/npm/prismjs@1.23.0/themes/prism-tomorrow.css' rel='stylesheet'/>
+
+<script src='http://prismjs.com/prism.js' type='text/javascript'/>
 </head>
 <body>
   <meta content='width=device-width, initial-scale=1' name='viewport'/>
-  <pre><code>int nightModeFlags = getResources().getConfiguration().uiMode & android.content.res.Configuration.UI_MODE_NIGHT_MASK; if (nightModeFlags == android.content.res.Configuration.UI_MODE_NIGHT_YES) { //DARK MODE IS ON } else { //DARK MODE IS OF };</code></pre>
+  <pre class="language-javascript"><code>int nightModeFlags = getResources().getConfiguration().uiMode & android.content.res.Configuration.UI_MODE_NIGHT_MASK; if (nightModeFlags == android.content.res.Configuration.UI_MODE_NIGHT_YES) { //DARK MODE IS ON } else { //DARK MODE IS OF };</code></pre>
 </body>
 </html>
