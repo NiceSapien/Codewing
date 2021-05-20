@@ -1,4 +1,4 @@
-# AmazeCode
+# Codewing
 Welcome to Codewing! Explore 500+ Java, HTML, **JavaScript** and CSS codes for FREE and use without any copyright worries!
 
 **Coming Soon**:*Web App made with **JavaScript**, Html and css*
